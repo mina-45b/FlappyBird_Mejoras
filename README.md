@@ -14,8 +14,8 @@ Flappy Bird Mejoras es una versión mejorada del clásico juego Flappy Bird. Inc
 
 - **Puntuación Mejorada:** +2 puntos, la puntuación se refleja por tuberías evitadas.
 - **Tiempo de enfríamiento:**  Por cada colisión se pierde una vida. Si el jugador tiene 1 o más vidas extras se agrega un tiempo de enfríamiento de 3 segundos y continua el juego.
-- **Sonido al tocar una vida:** Cada que el jugador toca una vida un alegré canto de júbilo es reproducido.
-- **Movimiento de alas:** Para añadir una sensación más realista se ha añadido un secuencia animada en el pájaro en su vuelo. 
+- **Sonido al tocar una vida:** Cada que el jugador toca un corazón un alegré canto de júbilo es reproducido.
+- **Movimiento de alas:** Para añadir una sensación más realista se ha añadido un secuencia animada para simular el vuelo del pájaro. 
 
 ## Instrucciones de Juego
 
