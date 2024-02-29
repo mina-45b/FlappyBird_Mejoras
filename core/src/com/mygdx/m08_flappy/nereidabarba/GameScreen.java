@@ -77,7 +77,7 @@ public class GameScreen implements Screen {
 
         score = 0;
 
-        numHearts = 5;
+        numHearts = 0;
 
         isPlayerInmune = false;
         inmunityDuration = 3.0f;
