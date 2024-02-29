@@ -1,7 +1,5 @@
 # Flappy Bird Mejoras
 
-## Descripción del Proyecto
-
 Flappy Bird Mejoras es una versión mejorada del clásico juego Flappy Bird. Incluye tuberías móviles y un sistema de vidas para agregar un desafío adicional.
 
 ## Características
@@ -10,11 +8,14 @@ Flappy Bird Mejoras es una versión mejorada del clásico juego Flappy Bird. Inc
   
 ![Flappy Bird Mejoras](assets/pipesMove.gif)
   
-- **Vidas:** Se han añadido vidas al juego. Los jugadores podrán ir capturando vidas a lo largo del juego. Por cada colisión se pierde una vida.
+- **Vidas:** Se han añadido vidas al juego. Los jugadores podrán ir capturando vidas a lo largo del juego.
   
 ![Flappy Bird Mejoras](assets/corazones.gif)
 
 - **Puntuación Mejorada:** +2 puntos, la puntuación se refleja por tuberías evitadas.
+- **Tiempo de enfríamiento:**  Por cada colisión se pierde una vida. Si el jugador tiene 1 o más vidas extras se agrega un tiempo de enfríamiento de 3 segundos.
+- **Sonido al tocar una vida:** Cada que el jugador toca una vida un alegré canto de júbilo es reproducido.
+- **Movimiento de alas:** Para añadir una sensación más realista se ha añadido un secuencia animada en el pájaro en su vuelo. 
 
 ## Instrucciones de Juego
 
